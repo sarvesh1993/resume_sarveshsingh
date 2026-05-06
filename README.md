@@ -2,7 +2,8 @@
 
 ### Senior QA Engineer | SDET | Automation & AI Testing Specialist
 
-📞 +91-9810432075 &nbsp;|&nbsp; ✉️ er.sarvesh67singh@gmail.com &nbsp;|&nbsp; 📍 Indirapuram, Ghaziabad, UP &nbsp;|&nbsp; 🌐 Open to Remote
+📞 +91-9810432075 &nbsp;|&nbsp; ✉️ er.sarvesh67singh@gmail.com &nbsp;|&nbsp; 📍 Indirapuram, Ghaziabad, UP
+🔗 [github.com/sarvesh1993/resume_sarveshsingh](https://github.com/sarvesh1993/resume_sarveshsingh) &nbsp;|&nbsp; 🌐 Open to Remote
 
 ---
 
@@ -111,7 +112,7 @@ IJCSIET, Issue 4, Volume 1, Series 4 — April 2014 | ISSN: 2277-4408
 
 | File | Description |
 |---|---|
-| `Sarvesh_Resume_10+ years.docx` | Latest updated resume — Senior QA Engineer / SDET |
+| `Sarvesh_Resume_Improved.docx` | Latest updated resume — Senior QA Engineer / SDET |
 | `README.md` | This file |
 
 ---
@@ -121,6 +122,7 @@ IJCSIET, Issue 4, Volume 1, Series 4 — April 2014 | ISSN: 2277-4408
 Feel free to reach out for **Senior QA / SDET / Automation Engineer** opportunities — especially remote roles at product-based companies.
 
 ✉️ **er.sarvesh67singh@gmail.com** &nbsp;|&nbsp; 📞 **+91-9810432075**
+🔗 **[github.com/sarvesh1993/resume_sarveshsingh](https://github.com/sarvesh1993/resume_sarveshsingh)**
 
 ---
 
